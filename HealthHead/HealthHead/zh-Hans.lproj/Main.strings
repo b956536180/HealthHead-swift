@@ -1,0 +1,54 @@
+
+/* Class = "IBUILabel"; text = "怀念过裁剪"; ObjectID = "133-so-EcZ"; */
+"133-so-EcZ.text" = "怀念过裁剪";
+
+/* Class = "IBUITabBarItem"; title = "每日食谱"; ObjectID = "32q-41-TNB"; */
+"32q-41-TNB.title" = "每日食谱";
+
+/* Class = "IBUILabel"; text = "网易新闻"; ObjectID = "8H6-rG-R9r"; */
+"8H6-rG-R9r.text" = "网易新闻";
+
+/* Class = "IBUILabel"; text = "作者"; ObjectID = "94f-E8-ox0"; */
+"94f-E8-ox0.text" = "作者";
+
+/* Class = "IBUILabel"; text = "医疗新闻"; ObjectID = "9gk-5G-Uql"; */
+"9gk-5G-Uql.text" = "医疗新闻";
+
+/* Class = "IBUILabel"; text = "通奸是什么意思"; ObjectID = "Bfk-A2-RuM"; */
+"Bfk-A2-RuM.text" = "通奸是什么意思";
+
+/* Class = "IBUITabBarItem"; title = "健康咨询"; ObjectID = "CVL-Ng-MG1"; */
+"CVL-Ng-MG1.title" = "健康咨询";
+
+/* Class = "IBUILabel"; text = "关注:8888"; ObjectID = "GK8-Nn-fos"; */
+"GK8-Nn-fos.text" = "关注:8888";
+
+/* Class = "IBUILabel"; text = "浏览:300"; ObjectID = "HA7-ct-SRX"; */
+"HA7-ct-SRX.text" = "浏览:300";
+
+/* Class = "IBUITabBarItem"; title = "每日头条"; ObjectID = "Phb-MC-O1q"; */
+"Phb-MC-O1q.title" = "每日头条";
+
+/* Class = "IBUILabel"; text = "天然酵母葡萄干面包"; ObjectID = "Sa4-m4-X8f"; */
+"Sa4-m4-X8f.text" = "天然酵母葡萄干面包";
+
+/* Class = "IBUILabel"; text = "浏览:33333"; ObjectID = "Yav-15-bkP"; */
+"Yav-15-bkP.text" = "浏览:33333";
+
+/* Class = "IBUILabel"; text = "2014 11:44:45 AM"; ObjectID = "Z3l-gJ-RpL"; */
+"Z3l-gJ-RpL.text" = "2014 11:44:45 AM";
+
+/* Class = "IBUILabel"; text = "2014 3:48:31 PM"; ObjectID = "j3K-BD-20X"; */
+"j3K-BD-20X.text" = "2014 3:48:31 PM";
+
+/* Class = "IBUISegmentedControl"; jJI-y7-FS0.segmentTitles[0] = "First"; ObjectID = "jJI-y7-FS0"; */
+"jJI-y7-FS0.segmentTitles[0]" = "First";
+
+/* Class = "IBUISegmentedControl"; jJI-y7-FS0.segmentTitles[1] = "Second"; ObjectID = "jJI-y7-FS0"; */
+"jJI-y7-FS0.segmentTitles[1]" = "Second";
+
+/* Class = "IBUILabel"; text = "德银:存款保险制度年底或成行 2016年完成利率市场化改革"; ObjectID = "oAR-97-qqc"; */
+"oAR-97-qqc.text" = "德银:存款保险制度年底或成行 2016年完成利率市场化改革";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "upc-rf-ikW"; */
+"upc-rf-ikW.title" = "Root View Controller";

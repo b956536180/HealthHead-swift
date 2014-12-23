@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>关于</title>
+    </head>
+    <style type="text/css">
+        .cont{  margin:0 auto; line-height:30px; padding:5px;}
+        .cont p{ text-indent:2em;}
+        </style>
+    <body>
+        <div class="cont">
+            <p>李雨龙,男,河南许昌人:</p>
+            <p>好读书不求甚解,喜好敲敲代码,睡个懒觉,看看书,逛逛论坛为他人答疑解惑.入行多年无所成就,唯独开发几款 App 娱乐大众聊以自慰… </p>
+            <p>岁月如水,虽无所成亦有所获,聊以自慰:</p>
+            <ul>
+                <li>Java</li>
+                <li>PHP</li>
+                <li>swift</li>
+                <li>Object-C</li>
+            </ul>
+        </div>
+        
+        <bottom>
+            <center>
+            <p>所有数据均来源"医药吧",完全免费,非商业盈利,特此声明</p>
+            <p>如对此应用存有疑问可发邮件至: lylapp@163.com</p>
+            CopyRight Reserved ® 2014~205</center> </bottom>
+    </body>
+</html>
